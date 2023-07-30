@@ -1,0 +1,47 @@
+
+.ali{
+	margin-left: 15px;
+	margin-right: 5px;
+}
+.b{
+	border: 5px groove whitesmoke;
+	height: 50px;
+	margin-left: 0;
+	margin-right: 0;
+	border-width: 2px;
+}
+.divst{
+
+	border: 5px groove whitesmoke;
+	border-width: 1.9px;
+}
+.tabset{
+	width: 1500px;
+}
+.borde{
+	margin-block-start: 0px;
+
+}
+.mystyle{
+	height: 200px;
+	background-color: whitesmoke;
+	margin: 20px;
+}
+.mytextsize{
+	font-size: 20px;
+
+}
+.bq{
+	font-family:italic;
+	margin-left: 50px;
+
+}
+.background-color{
+	display: flex;
+	justify-content: space-between;	
+}
+label{
+	width: 240px;
+	display: inline-block;
+	text-align: right;
+}
